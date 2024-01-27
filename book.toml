@@ -1,0 +1,13 @@
+[book]
+title = "study.ai"
+description = "study.ai"
+language = "kr"
+multilingual = false
+src = "src"
+
+[output.html]
+no-section-label = true
+site-url = "/study.ai/"
+git-repository-url = "https://github.com/netpyoung/study.ai"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/netpyoung/study.ai/edit/main/{path}"
